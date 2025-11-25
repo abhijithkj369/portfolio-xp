@@ -1,0 +1,34 @@
+/* Windows XP Theme Variables (Luna Blue) */
+:root {
+    /* Desktop */
+    --xp-background: #3A6EA5;
+    /* Fallback blue */
+
+    /* Window Colors */
+    --window-bg: #ECE9D8;
+    --window-title-active-start: #0058EE;
+    --window-title-active-end: #3593FF;
+    --window-title-inactive-start: #7697E7;
+    --window-title-inactive-end: #7697E7;
+    /* Usually solid or subtle gradient */
+    --window-border: #00138C;
+
+    /* Taskbar */
+    --taskbar-bg-start: #245DDA;
+    --taskbar-bg-end: #307BD6;
+    /* Simplified gradient */
+    --start-button-green: #3E9C43;
+    --start-button-hover: #4CB852;
+
+    /* Text */
+    --text-color: #000000;
+    --title-text-color: #FFFFFF;
+    --inactive-title-text-color: #D8E4F8;
+
+    /* Controls */
+    --button-bg: #F0F0F0;
+    --button-border: #003C74;
+
+    /* Shadows & Highlights */
+    --shadow-color: rgba(0, 0, 0, 0.5);
+}
